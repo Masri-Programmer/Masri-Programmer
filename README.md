@@ -2,19 +2,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohamad+Masri!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Lebanon 🇱🇧</h3>
+<h3 align="center">Software developer in Germany 🇩🇪 🇱🇧</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **finding an actual job!**
+ 🔭 I’m currently working at **Meinders & Elstermann Gmbh!**
  
- 🌱 I’m currently **switching to cybersecurity maybe 🤷🏼‍♂️**
+ 🌱 I’m currently **Engineering**
 
- 💬 Ask me about **React & NextJS**
+ 💬 Ask me about **React & Vue**
 
- ⚡ Fun fact **I wanted to be a physicist**
+ ⚡ Fun fact **I want to travel the world**
  
  </div>
  
