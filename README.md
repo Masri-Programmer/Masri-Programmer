@@ -7,19 +7,22 @@
 <h3 align="center">Software developer in Germany 🇩🇪 🇱🇧</h3>
 
 <br/>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="320px" height="200">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="320px" height="200">
+
+
+<p align = 'right'>
+<img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35%">
 </p>
-<br/>
+ <!-- Banners 3rd Phase : About Me -->
 
-<div align="center">
-  🔭 I’m currently working at **Meinders & Elstermann Gmbh!**  
-  🌱 I’m currently **Engineering**  
-  💬 Ask me about **React & Vue**  
-  ⚡ Fun fact **I want to travel the world**  
-</div>
-
+ <!-- About Me -->
+<p align='left'>
+- 🔭 <b>Software Engineering </b> at <b>Meinders & Elstermann Gmbh!</b><br>
+- 🌱 I’m currently exploring and learning in depth backend 😁<br>
+- ✨ Also focusing on problem-solving and full stack development <br>
+- 👯 Learning & Contributing to <b>Open Source Project</b> 😃<br>
+- 🥅 <i><b>2025 Goals</b></i>: Publish my Vlog with AI Agents.❤️ <br>
+- ⚡ Interests :Gaming and Swimming! 😏<br>
+</p>
 <br/>
 
 <div align="center"> 
@@ -37,7 +40,10 @@
 <hr/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="320px" height="200">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="320px" height="200">
+</p>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vue,react,nextjs,tailwind,sass,bootstrap,html,css" />
     <br>
@@ -73,9 +79,6 @@
 </div>
 
 <hr/>
-<p align = 'center'>
-<img align='center' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35%">
-</p>
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <div align="center">
